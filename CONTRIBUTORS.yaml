@@ -1598,6 +1598,13 @@ nakucher:
     email: nkucher3@jhu.edu
     joined: 2023-06
 
+natalie-wa:
+    name: Natalie Whitaker-Allen
+    email: nwhitak5@jh.edu
+    joined: 2024-08
+    affiliations:
+      - Johns Hopkins University
+
 natefoo:
     name: Nate Coraor
     matrix: 'natefoo:matrix.org'
